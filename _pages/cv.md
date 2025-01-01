@@ -1,11 +1,17 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
 ---
+
+<div class="container mt-5">
+  <h1 class="text-center">{{ page.title }}</h1>
+  <div style="text-align: center; margin: 20px 0;">
+    <a href="https://raw.githubusercontent.com/ryan-ott/CV/main/RyanOtt-CV.pdf" class="btn btn-primary" target="_blank" rel="noopener">Download CV (PDF)</a>
+  </div>
+  <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ryan-ott/CV/main/RyanOtt-CV.pdf&embedded=true" width="100%" height="800px" style="border: none;"></iframe>
+</div>
