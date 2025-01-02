@@ -7,7 +7,6 @@ nav_order: 4
 ---
 
 <div class="container mt-5">
-  <h1 class="text-left">{{ page.title }}</h1>
   <div style="text-align: center; margin: 20px 0;">
     <a href="https://raw.githubusercontent.com/ryan-ott/CV/main/RyanOtt-CV.pdf" class="btn btn-primary" target="_blank" rel="noopener">Download CV (PDF)</a>
   </div>
