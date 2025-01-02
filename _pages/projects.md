@@ -2,11 +2,13 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of personal, academic, and professional projects. Stilll a work in progress, content coming very soon!
+description: A collection of personal, academic, and professional projects. Still a work in progress, content coming very soon!
 nav: true
 nav_order: 2
-display_categories: [uni, work, fun]
+display_categories: [Academic, Work, Fun]
 horizontal: false
+toc:
+  sidebar: left
 ---
 
 <!-- pages/projects.md -->
