@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of personal, academic, and professional projects. Stilll a work in progress, content coming very soon!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [uni, work, fun]
 horizontal: false
 ---
 

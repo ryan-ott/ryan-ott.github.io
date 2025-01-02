@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Vec2Text
+description: Reconstructing text from just its embedding
+img: assets/img/vec2text.png
 importance: 1
-category: work
+category: uni
 related_publications: true
 ---
 
