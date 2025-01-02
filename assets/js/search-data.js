@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-curriculum-vitae",
-          title: "Curriculum Vitae",
-          description: "",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "A collection of personal, academic, and professional projects. Stilll a work in progress, content coming very soon!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A collection of personal, academic, and professional projects. Stilll a work in progress, content coming very soon!",
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum Vitae",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-image-galleries",
       
