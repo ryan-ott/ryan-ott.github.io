@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "A collection of personal, academic, and professional projects. Stilll a work in progress, content coming very soon!",
+          description: "A collection of personal, academic, and professional projects. Still a work in progress, content coming very soon!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -400,12 +400,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-vec2text",
-          title: 'Vec2Text',
-          description: "Reconstructing text from just its embedding",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -445,6 +440,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-vec2text",
+          title: 'Vec2Text',
+          description: "Reconstructing text from just its embedding",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vec2text_project/";
             },},{
         id: 'social-github',
         title: 'GitHub',
