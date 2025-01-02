@@ -1,11 +1,9 @@
 ---
 layout: default
 permalink: /cv/
-title: CV
+title: Curriculum Vitae
 nav: true
-nav_order: 5
-toc:
-  sidebar: left
+nav_order: 2
 ---
 
 <div class="container mt-5">
@@ -13,5 +11,5 @@ toc:
   <div style="text-align: center; margin: 20px 0;">
     <a href="https://raw.githubusercontent.com/ryan-ott/CV/main/RyanOtt-CV.pdf" class="btn btn-primary" target="_blank" rel="noopener">Download CV (PDF)</a>
   </div>
-  <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ryan-ott/CV/main/RyanOtt-CV.pdf&embedded=true" width="100%" height="800px" style="border: none;"></iframe>
+  <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ryan-ott/CV/main/RyanOtt-CV.pdf&embedded=true" width="100%" height="100%" style="border: none;"></iframe>
 </div>
