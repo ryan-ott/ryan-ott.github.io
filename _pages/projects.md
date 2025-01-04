@@ -7,9 +7,6 @@ nav: true
 nav_order: 2
 display_categories: [Academic, Work, Fun]
 horizontal: false
-toc:
-  sidebar: left
-  header_levels: [2, 2]
 ---
 
 <!-- pages/projects.md -->

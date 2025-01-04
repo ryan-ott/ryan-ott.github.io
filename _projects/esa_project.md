@@ -12,9 +12,9 @@ related_publications: true
     {% include figure.liquid loading="lazy" path="assets/img/ESA_Diagrams.png" title="Overview of ESCC NextGen Tools" class="img-fluid rounded z-depth-1" width="80%" %}
 </div>
 
-<div style="float: left; width: 50%; margin-left: 20px; margin-bottom: 20px;">
+<div style="float: right; width: 50%; margin-left: 20px; margin-bottom: 20px;">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe src="/assets/pdf/From%20Paperwork%20To%20Rocket%20Science.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" width="100%" height="400px" frameborder="0"></iframe>
+        <iframe src="/assets/pdf/From%20Paperwork%20to%20Rocket%20Science.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" width="100%" height="500px" frameborder="0"></iframe>
     </div>
 </div>
 
