@@ -9,6 +9,7 @@ display_categories: [Academic, Work, Fun]
 horizontal: false
 toc:
   sidebar: left
+  headers_levels: [2, 2]
 ---
 
 <!-- pages/projects.md -->
