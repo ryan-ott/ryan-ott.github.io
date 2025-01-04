@@ -433,6 +433,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-from-paperwork-to-rocket-science",
+          title: 'From Paperwork to Rocket Science',
+          description: "AI-Based Tools for the Next Generation of Space Standardisation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/esa_project/";
             },},{id: "projects-vec2text",
           title: 'Vec2Text',
           description: "Reconstructing text sequences from just its embeddings.",
