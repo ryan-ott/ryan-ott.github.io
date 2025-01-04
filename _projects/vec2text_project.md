@@ -8,11 +8,13 @@ category: Academic
 related_publications: true
 ---
 
-{% include figure.liquid loading="lazy" path="assets/img/vec2text.png" title="Vec2Text" class="img-fluid rounded z-depth-1" width="80%" style="display: block; margin: 0 auto;" %}
+<div style="text-align: center;">
+    {% include figure.liquid loading="lazy" path="assets/img/vec2text.png" title="Vec2Text" class="img-fluid rounded z-depth-1" width="80%" %}
+</div>
 
-<div style="float: right; width: 40%; margin-left: 20px; margin-bottom: 20px;">
+<div style="float: right; width: 50%; margin-left: 20px; margin-bottom: 20px;">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe src="/assets/pdf/Text%20Embeddings%20Reveal%20(Almost)%20As%20Much%20As%20Text%20-%20Reproduction.pdf" width="100%" height="300px" frameborder="0" allowfullscreen></iframe>
+        <iframe src="/assets/pdf/Text%20Embeddings%20Reveal%20(Almost)%20As%20Much%20As%20Text%20-%20Reproduction.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" width="100%" height="300px" frameborder="0"></iframe>
     </div>
 </div>
 
