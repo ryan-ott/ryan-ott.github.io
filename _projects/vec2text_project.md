@@ -13,8 +13,11 @@ related_publications: true
 </div>
 
 <div style="float: right; width: 50%; margin-left: 20px; margin-bottom: 20px;">
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe src="/assets/pdf/Text%20Embeddings%20Reveal%20(Almost)%20As%20Much%20As%20Text%20-%20Reproduction.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" width="100%" height="500px" frameborder="0"></iframe>
+    <div style="position: relative; padding-top: 141.42%;"> <!-- Adjusted aspect ratio -->
+        <iframe src="/assets/pdf/Text%20Embeddings%20Reveal%20(Almost)%20As%20Much%20As%20Text%20-%20Reproduction.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                frameborder="0">
+        </iframe>
     </div>
 </div>
 
