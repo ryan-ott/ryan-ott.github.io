@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Do I Care
-date: 2023-01-05 00:00:00
+date: 2025-01-05 00:00:00
 ---
 
 In a bigger sense, I actually feel like AI is a bit scary - because I don't understand it. I often enjoy talks with my dad where I explain to him cool concepts or work I come across during my studies. The topics I most enjoy talking about are the weird quirks that show up in the behaviour of training AI or ML models, things like the double descent phenomenon, grokking or neuron superposition. He himself is a patent examiner, specialising in microchip manufacturing and so he has to stay up to date with the state of the art in an, arguably, relatively, adjacent field. The thing that strikes me then is that weird, jittery feeling I get when the inevitable question of “why?” comes up. Why does the test accuracy do a second descent when the model is highly overparameterised? “I don't know". Why does a model suddenly discover the underlying relationship in a dataset when before it just memorised it? “Not sure actually”. Why do models choose to interfere multiple concepts into single neurons? “Because that lets it squeeze more performance out of its resources and minimise its loss function” Why though…?
