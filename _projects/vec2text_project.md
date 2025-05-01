@@ -3,7 +3,7 @@ layout: page
 title: Vec2Text
 description: Reconstructing text sequences from just its embeddings.
 img: assets/img/vec2text.png
-importance: 1
+importance: 2
 category: Academic
 related_publications: true
 ---

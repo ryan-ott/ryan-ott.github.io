@@ -17,17 +17,23 @@ related_publications: true
             </iframe>
         </div>
     </div>
-    <p style="overflow: hidden; padding-left: 15px;">
-        This final report summarizes my 3-month full-time internship at the European Space Agency, where I collaborated with Standardisation Engineers to develop AI-driven tools for the European Coordination on Space Standardisation (ECSS). Our goal was to streamline the space standards review process through automation.
-
-        During my internship, I contributed to the development of several key tools:
-
-        - **ReqReader**: Extracts and summarizes requirements efficiently.
-        - **DRED**: Detects duplicate requirements to avoid redundancy.
-        - **ECSSorter**: Classifies requirements to simplify the review process.
-        
-        These tools significantly reduced the time and effort needed for reviewing and updating standards, leading to quick adoption and showcasing the benefits of integrating AI into traditionally manual processes. Additionally, we explored domain-specific fine-tuning, which, although not immediately successful, provided valuable insights for future AI initiatives within the ECSS.
-        
-        This experience highlighted the potential of AI in enhancing space standardisation and paved the way for future advancements in this field.
-    </p>
+    <div style="overflow: hidden; padding-left: 15px;">
+        <p>
+            This final report summarizes my 3-month full-time internship at the European Space Agency, where I collaborated with Standardisation Engineers to develop AI-driven tools for the European Coordination on Space Standardisation (ECSS). Our goal was to streamline the space standards review process through automation.
+        </p>
+        <p>
+            During my internship, I contributed to the development of several key tools:
+        </p>
+        <ul>
+            <li><strong>ReqReader</strong>: Extracts and summarizes requirements efficiently.</li>
+            <li><strong>DRED</strong>: Detects duplicate requirements to avoid redundancy.</li>
+            <li><strong>ECSSorter</strong>: Classifies requirements to simplify the review process.</li>
+        </ul>
+        <p>
+            These tools significantly reduced the time and effort needed for reviewing and updating standards, leading to quick adoption and showcasing the benefits of integrating AI into traditionally manual processes. Additionally, we explored domain-specific fine-tuning, which, although not immediately successful, provided valuable insights for future AI initiatives within the ECSS.
+        </p>
+        <p>
+            This experience highlighted the potential of AI in enhancing space standardisation and paved the way for future advancements in this field.
+        </p>
+    </div>
 </div>
