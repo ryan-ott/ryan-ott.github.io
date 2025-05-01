@@ -109,6 +109,11 @@ ninja.data = [{
           description: "Reconstructing text sequences from just its embeddings.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vec2text_project/";
+            },},{id: "projects-visually-grounded-text-embeddings",
+          title: 'Visually Grounded Text Embeddings',
+          description: "Exploring the intersection of vision and language to create richer text representations.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/visually_grounded_embeddings/";
             },},{
         id: 'social-github',
         title: 'GitHub',
